@@ -42,3 +42,32 @@
     text-align: center;
     
 }
+ /* footer style */
+ .footer{
+    margin-top: 50px;
+    height: 250px;
+    background-color: black;
+    width: 100%;
+}
+.footer-title h2{
+    color: black;
+    text-align: center;
+    padding-top: 50px
+    ;
+}
+nav a{
+    text-decoration: none;
+    color:gray;
+    margin-right: 20px;
+   
+}
+.footer-nav{
+    text-align: center;
+    margin-top: 15px;
+}
+hr{
+border:1px solid #d1d1d1;}
+/* //social media part */
+.social-media{
+    font-size: 25px;
+}
